@@ -1,0 +1,183 @@
+body
+{
+	background-color:#3b74d1;	
+	font-family:Verdane;
+	font-size: 20px;
+	color:white;
+	margin:0 ;
+
+
+	
+}
+
+
+/*nieodwiedzony link*/
+a:link
+{
+	color:white;
+}
+/*odwiedzony link*/
+a:vislted
+{
+	color:blue;
+}
+
+/*najechany link tu jest szary*/
+a:hover
+{
+	color:#615b5b;
+	
+}
+#container
+{
+	width:1000xp;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#wiselec
+{
+	float: left;
+	width: 450xp;
+	text-align:center;
+	min-height:280px;
+}
+
+#logo
+{
+    font-size:60px;
+	color:yellow;
+	margin-top:33px;
+	leffer-spacing:22px;
+
+}
+#menu
+{
+	
+	text-align: center;
+	background-color:#faee05;
+	margin-top:30xp;
+	padding:15xp;
+	color:#409945;
+}
+
+
+.option
+{
+	float:left;
+	min-width:50xp;
+	height:25xp;
+	font-size:18xp;
+	padding:10xp;
+	border-right:5xp dotter #444444;
+	opaction:0,8;
+}
+.option:hover
+{
+	background-color:#1d1a69;
+	cursor:pointer;
+	
+}
+.litera
+{
+	width: 30px;
+	height: 30px;
+	text-align:center;
+	padding: 5px;
+	margin: 5px;
+	border: 3xp solid gray;
+	float: left;
+	cursor: pointer;
+}
+.reset
+{
+	color:green;
+	cursor: pointer;
+	font-size: 48px;
+}
+
+.reset:hover
+{
+	color:white;
+}
+#pojemnik
+{
+	width:900px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#plansza
+{
+	width: 900px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	text-align: center;
+	font-size: 48px;
+	min-height: 60px;
+}
+
+#szubienica
+{
+	float: left; 
+	width: 450px;
+	text-align: center;
+	min-height: 280px;
+}
+
+#alfabet
+{
+	float: left; 
+	width: 450px;
+	text-align: center;
+	min-height: 280px;
+}
+
+.litera
+{
+	width: 30px;
+	height: 30px;
+	text-align:center;
+	padding: 5px;
+	margin: 5px;
+	border: 3px solid gray;
+	float: left;
+	cursor: pointer;
+	border-radius: 15px;
+}
+
+.litera:hover
+{
+	background-color: #222222;
+	color: white;
+	border: 3px solid white;
+}
+
+.reset
+{
+	color:green;
+	cursor: pointer;
+	font-size: 48px;
+}
+
+.reset:hover
+{
+	color:white;
+}
+
+
+#containerr
+{
+	width:1000px;
+	margin-left: auto;
+	margin-right: auto;
+}
+#yelloww
+{
+	color:yellow;
+}
+#hh4
+{
+	
+	color: DE8716
+}
